@@ -1,0 +1,16 @@
+.warning {
+  background: slategrey;
+  margin: 25px;
+  border-radius: 5px;
+  padding: 5px;
+  font-weight: bolder;
+  border: 1px salmon solid;
+  color: black !important;
+  transition: all 0.3s ease-in-out;
+}
+
+.warning:hover {
+  padding: 15px;
+  color: blueviolet !important ;
+  border: 2px green dashed;
+}
